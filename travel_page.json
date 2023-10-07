@@ -1,5 +1,5 @@
 {
-  "url": "http://192.168.230.1:18088/restapi/soa2/16189/json/searchTripShootListForHomePageV2",
+  "url": "http://192.168.1.144:18088/restapi/soa2/16189/json/searchTripShootListForHomePageV2",
   "params": {
     "districtId": -1,
     "groupChannelCode": "tourphoto_global1",
@@ -33,7 +33,7 @@
   },
   "tabs": [
     {
-      "labelName": "发现",
+      "labelName": "发现333",
       "groupChannelCode": "tourphoto_global1"
     },
     {
