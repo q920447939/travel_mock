@@ -1,0 +1,160 @@
+{
+  "totalCount": 5,
+  "resultList": [
+    {
+      "type": 1,
+      "article": {
+        "articleId": 1,
+        "articleType": "news",
+        "productType": 2,
+        "sourceType": 1,
+        "articleTitle": "Sample Article 1",
+        "author": {
+          "authorId": 101,
+          "nickName": "John Doe",
+          "clientAuth": "verified",
+          "jumpUrl": "https://example.com/authors/johndoe",
+          "coverImage": {
+            "dynamicUrl": "https://example.com/images/johndoe-dynamic.jpg",
+            "originalUrl": "https://example.com/images/johndoe-original.jpg"
+          },
+          "identityType": 1,
+          "tag": "travel blogger"
+        },
+        "images": [
+          {
+            "imageId": 1001,
+            "dynamicUrl": "https://example.com/images/article1-image1-dynamic.jpg",
+            "originalUrl": "https://example.com/images/article1-image1-original.jpg",
+            "width": 800,
+            "height": 600,
+            "mediaType": 1,
+            "isWaterMarked": false
+          },
+          {
+            "imageId": 1002,
+            "dynamicUrl": "https://example.com/images/article1-image2-dynamic.jpg",
+            "originalUrl": "https://example.com/images/article1-image2-original.jpg",
+            "width": 1024,
+            "height": 768,
+            "mediaType": 1,
+            "isWaterMarked": false
+          }
+        ],
+        "hasVideo": false,
+        "readCount": 2500,
+        "likeCount": 120,
+        "commentCount": 45,
+        "urls": [
+          {
+            "version": "1.0",
+            "appUrl": "https://example.com/articles/1",
+            "h5Url": "https://example.com/articles/1",
+            "wxUrl": "https://example.com/articles/1/wx"
+          }
+        ],
+        "topics": [
+          {
+            "topicId": 10001,
+            "topicName": "Travel Adventures",
+            "level": 2
+          }
+        ],
+        "pois": [
+          {
+            "poiType": 2,
+            "poiId": 20001,
+            "poiName": "Paradise Beach",
+            "businessId": 201,
+            "districtId": 5,
+            "poiExt": {
+              "h5Url": "https://example.com/pois/20001",
+              "appUrl": "https://example.com/pois/20001/app"
+            },
+            "source": 1,
+            "isMain": 1,
+            "isInChina": false,
+            "countryName": "Maldives"
+          }
+        ],
+        "publishTime": "2023-10-06T15:30:00Z",
+        "publishTimeDisplay": "1 hour ago",
+        "shootTime": "2023-10-05T14:00:00Z",
+        "shootTimeDisplay": "Yesterday",
+        "level": 3,
+        "distanceText": "1.5 miles away",
+        "isLike": true,
+        "imageCounts": 2,
+        "isCollected": false,
+        "collectCount": 0,
+        "articleStatus": 1,
+        "poiName": "Paradise Beach"
+      }
+    },
+    {
+      "type": 2,
+      "article": {
+        "articleId": 2,
+        "articleType": "review",
+        "productType": 1,
+        "sourceType": 2,
+        "articleTitle": "Restaurant Review",
+        "author": {
+          "authorId": 102,
+          "nickName": "Alice Smith",
+          "clientAuth": "verified",
+          "jumpUrl": "https://example.com/authors/alicesmith",
+          "coverImage": {
+            "dynamicUrl": "https://example.com/images/alicesmith-dynamic.jpg",
+            "originalUrl": "https://example.com/images/alicesmith-original.jpg"
+          },
+          "identityType": 1,
+          "tag": "food critic"
+        },
+        "images": [
+          {
+            "imageId": 2001,
+            "dynamicUrl": "https://example.com/images/article2-image1-dynamic.jpg",
+            "originalUrl": "https://example.com/images/article2-image1-original.jpg",
+            "width": 1200,
+            "height": 800,
+            "mediaType": 1,
+            "isWaterMarked": false
+          }
+        ],
+        "hasVideo": true,
+        "readCount": 1500,
+        "likeCount": 85,
+        "commentCount": 30,
+        "urls": [
+          {
+            "version": "1.0",
+            "appUrl": "https://example.com/reviews/2",
+            "h5Url": "https://example.com/reviews/2",
+            "wxUrl": "https://example.com/reviews/2/wx"
+          }
+        ],
+        "topics": [
+          {
+            "topicId": 10002,
+            "topicName": "Restaurant Reviews",
+            "level": 2
+          }
+        ],
+        "pois": [],
+        "publishTime": "2023-10-05T20:45:00Z",
+        "publishTimeDisplay": "Yesterday",
+        "shootTime": "",
+        "shootTimeDisplay": "",
+        "level": 4,
+        "distanceText": "",
+        "isLike": true,
+        "imageCounts": 1,
+        "isCollected": false,
+        "collectCount": 0,
+        "articleStatus": 1,
+        "poiName": ""
+      }
+    }
+  ]
+}
