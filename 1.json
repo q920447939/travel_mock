@@ -3,12 +3,13 @@
   "resultList": [
     {
       "type": 1,
+      "height": 209.0,
       "article": {
         "articleId": 1,
         "articleType": "news",
         "productType": 2,
         "sourceType": 1,
-        "articleTitle": "Sample Article 1",
+        "articleTitle": "巴厘岛 | 总有一个假日，要属于bali",
         "author": {
           "authorId": 101,
           "nickName": "小小小肥猪",
@@ -26,8 +27,8 @@
             "imageId": 1001,
             "dynamicUrl": "http://192.168.1.144:18088/images?name=0102c120008gmz1epE5D9_C_286_190.jpg",
             "originalUrl": "",
-            "width": 50.0,
-            "height": 50.0,
+            "width": 209.0,
+            "height": 209.0,
             "mediaType": 1,
             "isWaterMarked": false
           }
@@ -70,7 +71,221 @@
         "articleStatus": 1,
         "poiName": "Paradise Beach"
       }
+    },
+    {
+      "type": 1,
+      "height": 209.0,
+      "article": {
+        "articleId": 1,
+        "articleType": "news",
+        "productType": 2,
+        "sourceType": 1,
+        "articleTitle": "Sample Article 1",
+        "author": {
+          "authorId": 102,
+          "nickName": "小小小肥猪",
+          "clientAuth": "verified",
+          "jumpUrl": "https://example.com/authors/johndoe",
+          "coverImage": {
+            "dynamicUrl": "",
+            "originalUrl": ""
+          },
+          "identityType": 1,
+          "tag": "travel blogger"
+        },
+        "images": [
+          {
+            "imageId": 1001,
+            "dynamicUrl": "http://192.168.1.144:18088/images?name=01024120008gdaf0e8112_C_286_190.jpg",
+            "originalUrl": "",
+            "width": 70.0,
+            "height": 70.0,
+            "mediaType": 1,
+            "isWaterMarked": false
+          }
+        ],
+        "hasVideo": false,
+        "readCount": 2500,
+        "likeCount": 120,
+        "commentCount": 45,
+        "urls": [
+        ],
+        "topics": [
+        ],
+        "pois": [
+          {
+            "poiType": 2,
+            "poiId": 20001,
+            "poiName": "老挝",
+            "businessId": 201,
+            "districtId": 5,
+            "poiExt": {
+              "h5Url": "https://example.com/pois/20001",
+              "appUrl": "https://example.com/pois/20001/app"
+            },
+            "source": 1,
+            "isMain": 1,
+            "isInChina": false,
+            "countryName": "Maldives"
+          }
+        ],
+        "publishTime": "2023-10-06T15:30:00Z",
+        "publishTimeDisplay": "1 hour ago",
+        "shootTime": "2023-10-05T14:00:00Z",
+        "shootTimeDisplay": "Yesterday",
+        "level": 3,
+        "distanceText": "1.5 miles away",
+        "isLike": true,
+        "imageCounts": 2,
+        "isCollected": false,
+        "collectCount": 0,
+        "articleStatus": 1,
+        "poiName": "Paradise Beach"
+      }
+    },
+    {
+      "type": 1,
+      "height": 209.0,
+      "article": {
+        "articleId": 1,
+        "articleType": "news",
+        "productType": 2,
+        "sourceType": 1,
+        "articleTitle": "Sample Article 1",
+        "author": {
+          "authorId": 102,
+          "nickName": "林琛Live",
+          "clientAuth": "verified",
+          "jumpUrl": "https://example.com/authors/johndoe",
+          "coverImage": {
+            "dynamicUrl": "",
+            "originalUrl": ""
+          },
+          "identityType": 1,
+          "tag": "travel blogger"
+        },
+        "images": [
+          {
+            "imageId": 1001,
+            "dynamicUrl": "http://192.168.1.144:18088/images?name=0104h1200081xpesbDD88_C_286_190.jpg",
+            "originalUrl": "",
+            "width": 70.0,
+            "height": 70.0,
+            "mediaType": 1,
+            "isWaterMarked": false
+          }
+        ],
+        "hasVideo": false,
+        "readCount": 2500,
+        "likeCount": 120,
+        "commentCount": 45,
+        "urls": [
+        ],
+        "topics": [
+        ],
+        "pois": [
+          {
+            "poiType": 2,
+            "poiId": 20001,
+            "poiName": "成都",
+            "businessId": 201,
+            "districtId": 5,
+            "poiExt": {
+              "h5Url": "https://example.com/pois/20001",
+              "appUrl": "https://example.com/pois/20001/app"
+            },
+            "source": 1,
+            "isMain": 1,
+            "isInChina": false,
+            "countryName": "Maldives"
+          }
+        ],
+        "publishTime": "2023-10-06T15:30:00Z",
+        "publishTimeDisplay": "1 hour ago",
+        "shootTime": "2023-10-05T14:00:00Z",
+        "shootTimeDisplay": "Yesterday",
+        "level": 3,
+        "distanceText": "1.5 miles away",
+        "isLike": true,
+        "imageCounts": 2,
+        "isCollected": false,
+        "collectCount": 0,
+        "articleStatus": 1,
+        "poiName": "Paradise Beach"
+      }
+    },
+    {
+      "type": 1,
+      "height": 209.0,
+      "article": {
+        "articleId": 1,
+        "articleType": "news",
+        "productType": 2,
+        "sourceType": 1,
+        "articleTitle": "Sample Article 1",
+        "author": {
+          "authorId": 102,
+          "nickName": "M_梦初",
+          "clientAuth": "verified",
+          "jumpUrl": "https://example.com/authors/johndoe",
+          "coverImage": {
+            "dynamicUrl": "",
+            "originalUrl": ""
+          },
+          "identityType": 1,
+          "tag": "travel blogger"
+        },
+        "images": [
+          {
+            "imageId": 1001,
+            "dynamicUrl": "http://192.168.1.144:18088/images?name=0102h120008g8yxwy973B_C_286_190.jpg",
+            "originalUrl": "",
+            "width": 70.0,
+            "height": 70.0,
+            "mediaType": 1,
+            "isWaterMarked": false
+          }
+        ],
+        "hasVideo": false,
+        "readCount": 2500,
+        "likeCount": 120,
+        "commentCount": 45,
+        "urls": [
+        ],
+        "topics": [
+        ],
+        "pois": [
+          {
+            "poiType": 2,
+            "poiId": 20001,
+            "poiName": "成都",
+            "businessId": 201,
+            "districtId": 5,
+            "poiExt": {
+              "h5Url": "https://example.com/pois/20001",
+              "appUrl": "https://example.com/pois/20001/app"
+            },
+            "source": 1,
+            "isMain": 1,
+            "isInChina": false,
+            "countryName": "Maldives"
+          }
+        ],
+        "publishTime": "2023-10-06T15:30:00Z",
+        "publishTimeDisplay": "1 hour ago",
+        "shootTime": "2023-10-05T14:00:00Z",
+        "shootTimeDisplay": "Yesterday",
+        "level": 3,
+        "distanceText": "1.5 miles away",
+        "isLike": true,
+        "imageCounts": 2,
+        "isCollected": false,
+        "collectCount": 0,
+        "articleStatus": 1,
+        "poiName": "Paradise Beach"
+      }
     }
+
 
   ]
 }
